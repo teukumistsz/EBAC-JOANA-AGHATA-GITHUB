@@ -1,10 +1,10 @@
 # EBAC-JOANA-AGHATA-GITHUB
 
 Trabalho da aluna Joana Aghata do GitHub.
-#CALCULADORA PYTHON
+# CALCULADORA PYTHON
 # Script de calculadora simples em Python
 
-# Função para realizar a operação
+#Função para realizar a operação
 def calcular(num1, num2, op):
     if op == '+':
         return num1 + num2
@@ -17,12 +17,12 @@ def calcular(num1, num2, op):
     else:
         return "Operação inválida"
 
-# Solicita a entrada do usuário
+#Solicita a entrada do usuário
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
 op = input("Escolha a operação: +, -, *, /: ")
 
-# Realiza a operação e exibe o resultado
+#Realiza a operação e exibe o resultado
 resultado = calcular(num1, num2, op)
 print("Resultado: ", resultado)
 
