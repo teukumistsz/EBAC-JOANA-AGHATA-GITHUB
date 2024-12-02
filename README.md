@@ -25,7 +25,7 @@ op = input("Escolha a operação: +, -, *, /: ")
 resultado = calcular(num1, num2, op)
 print("Resultado: ", resultado)
 
-#CALCULADORA simples BASH
+# CALCULADORA simples BASH
 
 #!/bin/bash
 echo "Digite o primeiro nÃºmero:"
