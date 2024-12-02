@@ -1,8 +1,7 @@
 # EBAC-JOANA-AGHATA-GITHUB
 
 Trabalho da aluna Joana Aghata do GitHub.
-# CALCULADORA PYTHON
-# Script de calculadora simples em Python
+# CALCULADORA simples PYTHON
 
 #Função para realizar a operação
 def calcular(num1, num2, op):
@@ -26,7 +25,7 @@ op = input("Escolha a operação: +, -, *, /: ")
 resultado = calcular(num1, num2, op)
 print("Resultado: ", resultado)
 
-#CALCULADORA BASH
+#CALCULADORA simples BASH
 
 #!/bin/bash
 echo "Digite o primeiro nÃºmero:"
