@@ -45,7 +45,7 @@ Trabalho da aluna Joana Aghata do GitHub.
 
     echo "Resultado: $result"
 
-# EXPLICAÇÃO codificação PYTHON
+# EXPLICAÇÃO código PYTHON
 
 """
 
@@ -102,7 +102,7 @@ Solicitação de Entradas: o script solicita ao usuário que insira dois número
 Exibição do Resultado: o resultado da operação é calculado pela função calcular e exibido ao usuário.
 
 """
-# EXPLICAÇÃO codificação BASH
+# EXPLICAÇÃO código BASH
 
     #!/bin/bash
     # Script de Calculadora Simples
